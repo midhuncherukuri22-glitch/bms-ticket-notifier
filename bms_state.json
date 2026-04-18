@@ -150,7 +150,7 @@
       "date": "20260424",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "PRHN|249242|20260424|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
@@ -486,7 +486,7 @@
       "date": "20260425",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|109323|20260425|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -510,7 +510,7 @@
       "date": "20260425",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|109324|20260425|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -534,7 +534,7 @@
       "date": "20260425",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|109325|20260425|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -598,7 +598,7 @@
       "date": "20260425",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "PRHN|249245|20260425|GOLD": {
       "venue": "Prasads Multiplex: Hyderabad",
@@ -782,7 +782,7 @@
       "date": "20260425",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "1"
+      "status": "0"
     },
     "ACEV|12682|20260425|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -1158,7 +1158,7 @@
       "date": "20260426",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ACEV|12686|20260426|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -1182,7 +1182,7 @@
       "date": "20260426",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ACEV|12687|20260426|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -1230,7 +1230,7 @@
       "date": "20260426",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ACEV|12689|20260426|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
