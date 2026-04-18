@@ -310,7 +310,7 @@
       "date": "20260424",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ACEV|12674|20260424|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -382,7 +382,7 @@
       "date": "20260424",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "1"
+      "status": "0"
     },
     "ACEV|12678|20260424|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -406,7 +406,7 @@
       "date": "20260424",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ACEV|12679|20260424|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
