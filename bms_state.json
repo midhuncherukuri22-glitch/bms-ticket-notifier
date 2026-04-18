@@ -14,7 +14,7 @@
       "date": "20260424",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "2"
+      "status": "3"
     },
     "AMBH|109310|20260424|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -86,7 +86,7 @@
       "date": "20260424",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "2"
+      "status": "3"
     },
     "AMBH|109313|20260424|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -134,7 +134,7 @@
       "date": "20260424",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "2"
+      "status": "3"
     },
     "AMBH|109315|20260424|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -150,7 +150,7 @@
       "date": "20260424",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "PRHN|249242|20260424|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
@@ -424,6 +424,54 @@
       "price": "295.00",
       "status": "3"
     },
+    "MTHY|75074|20260424|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "10:00 AM",
+      "date": "20260424",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75075|20260424|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "12:30 PM",
+      "date": "20260424",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75076|20260424|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "03:00 PM",
+      "date": "20260424",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75077|20260424|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "05:30 PM",
+      "date": "20260424",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75078|20260424|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "08:00 PM",
+      "date": "20260424",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75079|20260424|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "10:30 PM",
+      "date": "20260424",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
     "AMBH|109321|20260425|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "09:25 AM",
@@ -462,7 +510,7 @@
       "date": "20260425",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "2"
+      "status": "3"
     },
     "AMBH|109322|20260425|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -486,7 +534,7 @@
       "date": "20260425",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "2"
+      "status": "3"
     },
     "AMBH|109323|20260425|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -510,7 +558,7 @@
       "date": "20260425",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "2"
+      "status": "3"
     },
     "AMBH|109324|20260425|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -664,19 +712,27 @@
       "price": "295.00",
       "status": "3"
     },
-    "ACAS|32244|20260425|SEMI RECLINER": {
+    "ACAS|32338|20260425|RECLINER": {
       "venue": "AAA Cinemas: Ameerpet",
-      "time": "04:20 PM",
+      "time": "04:25 PM",
       "date": "20260425",
-      "cat": "SEMI RECLINER",
+      "cat": "RECLINER",
       "price": "350.00",
       "status": "0"
     },
-    "ACAS|32244|20260425|GOLD": {
+    "ACAS|32338|20260425|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
-      "time": "04:20 PM",
+      "time": "04:25 PM",
       "date": "20260425",
       "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ACAS|32338|20260425|LOUNGERS": {
+      "venue": "AAA Cinemas: Ameerpet",
+      "time": "04:25 PM",
+      "date": "20260425",
+      "cat": "LOUNGERS",
       "price": "295.00",
       "status": "3"
     },
@@ -782,7 +838,7 @@
       "date": "20260425",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ACEV|12682|20260425|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -806,7 +862,7 @@
       "date": "20260425",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ACEV|12683|20260425|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -830,7 +886,7 @@
       "date": "20260425",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ACEV|12684|20260425|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -846,6 +902,54 @@
       "date": "20260425",
       "cat": "LOUNGERS",
       "price": "295.00",
+      "status": "3"
+    },
+    "MTHY|75080|20260425|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "10:00 AM",
+      "date": "20260425",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75081|20260425|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "12:30 PM",
+      "date": "20260425",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75082|20260425|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "03:00 PM",
+      "date": "20260425",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75083|20260425|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "05:30 PM",
+      "date": "20260425",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75084|20260425|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "08:00 PM",
+      "date": "20260425",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75085|20260425|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "10:30 PM",
+      "date": "20260425",
+      "cat": "RECLINER",
+      "price": "350.00",
       "status": "3"
     },
     "AMBH|109332|20260426|PLATINUM": {
@@ -1048,19 +1152,27 @@
       "price": "295.00",
       "status": "3"
     },
-    "ACAS|32248|20260426|SEMI RECLINER": {
+    "ACAS|32339|20260426|RECLINER": {
       "venue": "AAA Cinemas: Ameerpet",
       "time": "01:30 PM",
       "date": "20260426",
-      "cat": "SEMI RECLINER",
+      "cat": "RECLINER",
       "price": "350.00",
       "status": "0"
     },
-    "ACAS|32248|20260426|GOLD": {
+    "ACAS|32339|20260426|GOLD": {
       "venue": "AAA Cinemas: Ameerpet",
       "time": "01:30 PM",
       "date": "20260426",
       "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "ACAS|32339|20260426|LOUNGERS": {
+      "venue": "AAA Cinemas: Ameerpet",
+      "time": "01:30 PM",
+      "date": "20260426",
+      "cat": "LOUNGERS",
       "price": "295.00",
       "status": "3"
     },
@@ -1134,7 +1246,7 @@
       "date": "20260426",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ACEV|12685|20260426|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -1158,7 +1270,7 @@
       "date": "20260426",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ACEV|12686|20260426|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -1206,7 +1318,7 @@
       "date": "20260426",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ACEV|12688|20260426|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -1230,7 +1342,7 @@
       "date": "20260426",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ACEV|12689|20260426|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -1246,6 +1358,54 @@
       "date": "20260426",
       "cat": "LOUNGERS",
       "price": "295.00",
+      "status": "3"
+    },
+    "MTHY|75086|20260426|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "10:00 AM",
+      "date": "20260426",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75087|20260426|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "12:30 PM",
+      "date": "20260426",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75088|20260426|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "03:00 PM",
+      "date": "20260426",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75089|20260426|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "05:30 PM",
+      "date": "20260426",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75090|20260426|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "08:00 PM",
+      "date": "20260426",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MTHY|75091|20260426|RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "10:30 PM",
+      "date": "20260426",
+      "cat": "RECLINER",
+      "price": "350.00",
       "status": "3"
     }
   },
