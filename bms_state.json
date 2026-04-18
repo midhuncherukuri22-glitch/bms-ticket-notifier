@@ -14,7 +14,7 @@
       "date": "20260424",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|109310|20260424|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -86,7 +86,7 @@
       "date": "20260424",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|109313|20260424|LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -141,6 +141,14 @@
       "time": "11:05 PM",
       "date": "20260424",
       "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|249181|20260424|GOLD": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "09:00 AM",
+      "date": "20260424",
+      "cat": "GOLD",
       "price": "295.00",
       "status": "3"
     },
@@ -606,7 +614,7 @@
       "date": "20260425",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "PRHN|249247|20260425|GOLD": {
       "venue": "Prasads Multiplex: Hyderabad",
@@ -774,7 +782,7 @@
       "date": "20260425",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ACEV|12682|20260425|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -822,7 +830,7 @@
       "date": "20260425",
       "cat": "RECLINERS",
       "price": "350.00",
-      "status": "1"
+      "status": "0"
     },
     "ACEV|12684|20260425|GOLD": {
       "venue": "ART CINEMAS: Vanasthalipuram",
